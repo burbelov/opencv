@@ -1,0 +1,3 @@
+# opencv
+add libopencv_java320.so to src/main/resources/* ...
+add path to lib config.properties
